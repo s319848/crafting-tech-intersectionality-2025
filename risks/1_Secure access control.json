@@ -1,0 +1,43 @@
+[
+    {
+        "id_use": 1,
+        "purpose": "Secure access control",
+        "id_group": 1,
+        "description": "General group",
+        "Risks": [
+            "Misidentification can occur, particularly affecting older individuals and people from marginalized racial backgrounds, leading to wrongful access denials or scrutiny.",
+            "Privacy invasion arises when facial recognition technology collects and stores individuals' images without their consent, creating a feeling of constant surveillance.",
+            "Biases in facial recognition technology can result in unfair treatment, reinforcing discrimination against certain demographics based on race or age.",
+            "Lack of understanding of the technology can leave individuals vulnerable, particularly those with lower education levels, making it difficult to challenge erroneous outcomes.",
+            "Potential misuse of personal data raises concerns about security and privacy, as individuals may not be informed about how their data is utilized or shared."
+        ]
+    },
+    {
+        "id_use": 1,
+        "purpose": "Secure access control",
+        "id_group": 2,
+        "description": "All agents are black woman",
+        "Risks": [
+            "Misidentification can lead to wrongful access denials or unfair treatment, particularly affecting older individuals and marginalized racial groups.",
+            "Privacy invasion occurs when individuals are tracked or monitored without their consent, creating an uncomfortable atmosphere of constant surveillance.",
+            "Biases inherent in facial recognition algorithms can result in discriminatory outcomes, disproportionately impacting certain demographics.",
+            "Lack of transparency and understanding about how data is collected, used, and stored can leave individuals vulnerable to misuse.",
+            "Trust in public spaces may be eroded due to the surveillance capabilities of facial recognition technology, contributing to a chilling effect on personal freedoms."
+        ]
+    },
+    {
+        "id_use": 1,
+        "purpose": "Secure access control",
+        "id_group": 3,
+        "description": "Agents rapresent the distribution of oppressed population",
+        "Risks": [
+            "Misidentification can lead to wrongful access denials, especially for older individuals and marginalized racial groups.",
+            "There are significant privacy invasion concerns, as facial recognition technology often tracks individuals without their consent.",
+            "The technology may reinforce existing biases, leading to unfair treatment and discrimination based on race or gender.",
+            "Constant surveillance can create a chilling effect on personal autonomy and freedom, making individuals feel monitored in public spaces.",
+            "Lack of transparency in how data is collected and used raises concerns about potential misuse of personal information.",
+            "Inaccuracies in the technology can disproportionately affect individuals with lower tech literacy or education, making it difficult for them to navigate challenges arising from misidentifications.",
+            "Dependence on facial recognition technology for secure access control can create barriers for those who do not fit the typical demographic profiles used in training the algorithms."
+        ]
+    }
+]

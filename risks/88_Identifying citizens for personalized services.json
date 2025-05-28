@@ -1,0 +1,49 @@
+[
+    {
+        "id_use": 88,
+        "purpose": "Identifying citizens for personalized services",
+        "id_group": 1,
+        "description": "General group",
+        "Risks": [
+            "Creates significant privacy concerns by tracking individuals without their consent.",
+            "Can lead to misidentification and discrimination, disproportionately affecting marginalized groups.",
+            "Risks reinforcing existing biases in algorithmic decisions, impacting access to services based on race or gender.",
+            "Increases the potential for misuse of personal data, leading to unauthorized surveillance or profiling.",
+            "Generates a constant feeling of being monitored, which can erode personal freedom and trust.",
+            "Exposes individuals to security risks, such as data breaches or misuse of biometric information.",
+            "Negatively impacts those with lower tech literacy, making it harder for them to understand their rights or contest inaccuracies."
+        ]
+    },
+    {
+        "id_use": 88,
+        "purpose": "Identifying citizens for personalized services",
+        "id_group": 2,
+        "description": "All agents are black woman",
+        "Risks": [
+            "Leads to privacy invasions through constant surveillance and collection of personal data without consent.",
+            "Risks misidentification and discrimination, particularly affecting marginalized groups based on race, age, or gender.",
+            "Creates an environment of mistrust and unease due to the perception of being constantly monitored.",
+            "May exacerbate existing biases in service provision, resulting in unequal access to services for certain demographics.",
+            "Raises concerns about the misuse of personal data, including unauthorized sharing and hacking.",
+            "Limits individuals' ability to understand or challenge data mishandling due to varied levels of education and tech literacy."
+        ]
+    },
+    {
+        "id_use": 88,
+        "purpose": "Identifying citizens for personalized services",
+        "id_group": 3,
+        "description": "Agents rapresent the distribution of oppressed population",
+        "Risks": [
+            "Leads to privacy violations due to tracking individuals without their consent.",
+            "Creates increased surveillance culture, making individuals feel constantly monitored.",
+            "Risks misidentification, particularly for marginalized groups based on race or age.",
+            "Causes discriminatory outcomes in accessing services due to biased algorithms.",
+            "Results in potential misuse of personal data, raising concerns about data privacy.",
+            "Leaves vulnerable individuals without understanding of their rights or technology implications.",
+            "Increases the likelihood of unfair profiling based on demographic characteristics.",
+            "Contributes to a sense of distrust towards authorities and technological systems.",
+            "Risks overlooking the needs of less tech-savvy populations in service provision.",
+            "May establish an environment where personal freedoms are compromised."
+        ]
+    }
+]

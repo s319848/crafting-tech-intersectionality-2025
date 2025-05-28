@@ -1,0 +1,62 @@
+[
+    {
+        "id":1,
+        "Purpose":"Secure access control",
+        "Risks": [
+            "Reinforces biases if the facial recognition technology is not equally accurate for all individuals.",
+            "Undermines the right to privacy if used in a way that limits public access to information.",
+            "Creates a gender disparity in access to the technology used for identification.",
+            "Leads to job losses and increased unemployment in the security sector."
+        ]
+    },
+    {
+        "id":134,
+        "Purpose":"Detecting driver fatigue through facial analysis",
+        "Risks": [
+            "Undermines the right to privacy if the facial analysis data is not properly secured."
+        ]
+    },
+    {
+        "id":60,
+        "Purpose":"Using diverse facial data to refine algorithms",
+        "Risks": [
+            "The AI system could potentially undermine efforts to eliminate all forms of discrimination against women if the facial recognition technology is biased and discriminates against women. This could occur if the AI system is trained on data sets that do not adequately represent all genders, leading to inaccurate and biased results.",        
+            "While the AI system does not directly undermine any specific global equality objectives, it's important to note that facial recognition technology has been criticized for potential biases and discrimination, which could potentially undermine efforts to ensure equal opportunity and reduce unequal treatment and social outcomes. If the system's algorithms are not properly trained and tested, they could potentially reinforce discriminatory patterns and perceived unfair treatment.",
+            "The use of facial recognition technology could potentially undermine efforts to guarantee public access to information and uphold fundamental rights and freedoms. For example, if used for surveillance purposes, it could limit freedom of expression or privacy, weakening existing legal safeguards that protect citizens' right to access information.",
+            "The AI system could potentially undermine individuals' right to physical and psychological integrity if the facial data sets used are obtained without the consent of the individuals, infringing on their right to security of person.",
+            "The AI system could potentially undermine individuals' fundamental right to be legally recognized as persons if the facial data sets used are obtained without the consent of the individuals, infringing on their right to recognition everywhere as a person before the law.",
+            "The AI system could potentially infringe on privacy rights if the facial data sets are obtained without consent or used inappropriately.",
+            "The AI system could potentially undermine individuals' right to the protection of their moral and material interests if the facial data sets are used without the consent of the individuals, infringing on their right to the protection of their moral and material interests." 
+        ]
+    },
+    {
+        "id":27,
+        "Purpose":"Validating remote worker identity during virtual meetings",
+        "Risks": [
+            "Discriminates against certain individuals during the identity validation process.",
+            "Infringes on privacy if used to monitor employees without their knowledge or consent.",
+            "Creates a stressful work environment by excessively monitoring employees.",
+            "Increases inequalities if the system is biased or discriminatory."
+        ]
+    },
+    {
+        "id":70,
+        "Purpose":"Verifying voter identities to prevent fraud",
+        "Risks": [
+            "Discriminates against certain groups of women who do not have the necessary identification documents or face barriers in accessing the technology.",
+            "Incorrectly identifies legitimate voters as fraudulent, leading to unfair elections.",
+            "Intrudes on the privacy of voters beyond what is necessary for verifying their identities.",
+            "Denies legitimate voters their right to participate in the government if incorrectly identified as fraudulent.",
+            "Undermines equal opportunities for leadership at all levels of decision-making in political, economic and public life if not properly designed or implemented.",
+            "Does not support decent work for all if biases lead to unfair elections and policies."
+        ]
+    },
+    {
+        "id":88,
+        "Purpose":"Identifying citizens for personalized services",
+        "Risks": [
+            "Reinforces existing biases or discrimination if not properly designed or implemented.",
+            "Infringes on citizens' privacy if the data collected for personalized services is misused or mishandled."
+        ]
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "id_use": 27,
+        "purpose": "Validating remote worker identity during virtual meetings",
+        "id_group": 1,
+        "description": "General group",
+        "Risks": [
+            "Misidentification due to biases in the technology can lead to unfair treatment in professional settings.",
+            "Privacy concerns arise from the constant monitoring and storage of personal data without consent.",
+            "The technology may reinforce societal biases, disproportionately affecting marginalized groups based on race, gender, or age.",
+            "Reliance on facial recognition can create a culture of surveillance that undermines trust and personal interactions.",
+            "Individuals may face added stress and scrutiny in remote work settings due to the potential for inaccurate identity validation.",
+            "Lack of technological understanding among certain demographics could lead to exclusion or disadvantage in professional environments."
+        ]
+    },
+    {
+        "id_use": 27,
+        "purpose": "Validating remote worker identity during virtual meetings",
+        "id_group": 2,
+        "description": "All agents are black woman",
+        "Risks": [
+            "Leads to privacy concerns as personal data may be collected, stored, or misused without consent.",
+            "Causes misidentification, particularly for older individuals and marginalized groups, leading to unfair treatment or exclusion in professional settings.",
+            "Reinforces biases against certain demographics, affecting job security and professional reputation.",
+            "Creates an environment of constant surveillance, making employees feel uncomfortable and undervalued.",
+            "Introduces barriers for those who are less tech-savvy, potentially excluding them from equal participation in virtual meetings."
+        ]
+    },
+    {
+        "id_use": 27,
+        "purpose": "Validating remote worker identity during virtual meetings",
+        "id_group": 3,
+        "description": "Agents rapresent the distribution of oppressed population",
+        "Risks": [
+            "Leads to misidentification, particularly affecting individuals based on race, age, or gender, which may result in unfair treatment in professional settings.",
+            "Raises significant privacy concerns due to the potential for personal data to be collected, stored, and misused without consent.",
+            "Reinforces bias and discrimination against marginalized groups, which could impact job security and opportunities.",
+            "Creates a feeling of constant surveillance, which can be intrusive and detrimental to workplace trust and employee morale.",
+            "Introduces barriers for those less tech-savvy, who may struggle to navigate the technology and its implications, exacerbating inequalities in professional environments.",
+            "May undermine confidence and credibility during meetings if individuals are not accurately recognized or are unfairly scrutinized based on flawed technology."
+        ]
+    }
+]

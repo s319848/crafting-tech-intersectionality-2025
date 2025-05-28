@@ -1,0 +1,46 @@
+[
+    {
+        "id_use": 60,
+        "purpose": "Using diverse facial data to refine algorithms",
+        "id_group": 1,
+        "description": "General group",
+        "Risks": [
+            "Leads to misidentification and wrongful accusations, particularly for marginalized groups based on race and age.",
+            "Raises significant privacy concerns due to potential surveillance without consent.",
+            "Reinforces existing social biases and discrimination, impacting trust in institutions and technology.",
+            "Limits opportunities for individuals if algorithms misrepresent or overlook specific demographics in decision-making processes, such as hiring.",
+            "Creates a sense of vulnerability and unease among individuals who may be disproportionately affected by flawed algorithmic decisions.",
+            "Undermines personal freedoms as constant surveillance can restrict individuals' movements and actions in public spaces."
+        ]
+    },
+    {
+        "id_use": 60,
+        "purpose": "Using diverse facial data to refine algorithms",
+        "id_group": 2,
+        "description": "All agents are black woman",
+        "Risks": [
+            "Leads to biased outcomes and misidentification based on race, gender, or age.",
+            "Increases privacy concerns due to surveillance and data collection without consent.",
+            "Results in wrongful accusations or unfair treatment in law enforcement and public interactions.",
+            "Reinforces systemic inequalities and discrimination against marginalized groups.",
+            "May not accurately recognize older individuals or those from diverse backgrounds.",
+            "Creates distrust in technology and institutions if misidentifications occur frequently.",
+            "Risks individuals\u2019 personal data being misused or mishandled."
+        ]
+    },
+    {
+        "id_use": 60,
+        "purpose": "Using diverse facial data to refine algorithms",
+        "id_group": 3,
+        "description": "Agents rapresent the distribution of oppressed population",
+        "Risks": [
+            "Leads to misidentification, particularly for individuals from diverse racial and ethnic backgrounds, resulting in wrongful accusations or unfair treatment.",
+            "Raises significant privacy concerns, as personal data may be collected and analyzed without consent, leading to feelings of constant surveillance.",
+            "Reinforces existing biases and systemic inequalities, especially against marginalized groups, by misrepresenting or overlooking their identities.",
+            "Results in lack of trust in technology and institutions due to inaccuracies in algorithmic decisions and profiling.",
+            "Creates barriers to employment and social opportunities for those affected by flawed algorithms, impacting their daily lives.",
+            "Makes certain demographics more vulnerable to scrutiny and discrimination, with specific concern for older individuals and women.",
+            "Exacerbates feelings of helplessness in challenging unfair outcomes, particularly for those with lower education levels or less technical understanding."
+        ]
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "id_use": 134,
+        "purpose": "Detecting driver fatigue through facial analysis",
+        "id_group": 1,
+        "description": "General group",
+        "Risks": [
+            "Leads to privacy invasion through constant monitoring without consent.",
+            "Misidentifies fatigue based on facial features, resulting in false positives and unfair targeting.",
+            "Poses risks of bias in the algorithms, disproportionately affecting certain demographics based on race, gender, or age.",
+            "Creates unnecessary stress and anxiety for drivers who are wrongly flagged as fatigued.",
+            "Undermines personal responsibility by relying too heavily on technology for assessing driver alertness.",
+            "Risks misinterpretation of natural expressions, leading to unjust penalties or scrutiny.",
+            "Raises concerns about the potential misuse of collected data, further eroding trust in the technology."
+        ]
+    },
+    {
+        "id_use": 134,
+        "purpose": "Detecting driver fatigue through facial analysis",
+        "id_group": 2,
+        "description": "All agents are black woman",
+        "Risks": [
+            "Leads to privacy invasion by continuously monitoring individuals without their consent.",
+            "Misidentifies individuals, resulting in false positives that can lead to unfair penalties or interventions.",
+            "Displays bias against certain demographics, particularly based on race or age, which can lead to discrimination.",
+            "Creates a false sense of security by relying on technology instead of human judgment in assessing fatigue.",
+            "Causes unnecessary stress and anxiety for individuals who feel constantly scrutinized while driving.",
+            "Risks misuse of personal data, including potential sharing or exploitation without consent.",
+            "Undermines personal responsibility by shifting accountability away from drivers to technology.",
+            "Results in misunderstandings that could lead to legal troubles or impact driving records unfairly."
+        ]
+    },
+    {
+        "id_use": 134,
+        "purpose": "Detecting driver fatigue through facial analysis",
+        "id_group": 3,
+        "description": "Agents rapresent the distribution of oppressed population",
+        "Risks": [
+            "Privacy concerns arise due to constant monitoring, which can feel invasive and lead to distrust in the technology.",
+            "Facial recognition technology could misidentify or incorrectly flag individuals as fatigued, resulting in false positives and unnecessary scrutiny.",
+            "Bias in the algorithms may lead to unfair targeting of certain demographics, particularly older adults, women, and people of color.",
+            "There is a risk of misinterpretation based on individual expressions or features, which could unfairly impact individuals' driving capabilities or lead to penalties.",
+            "The technology could lead to data misuse or sharing without consent, raising concerns about personal information security.",
+            "Reliance on technology for detecting fatigue may undermine personal responsibility and awareness of driver alertness.",
+            "Individuals with lower education or tech familiarity might struggle with understanding or contesting misjudgments made by the technology."
+        ]
+    }
+]

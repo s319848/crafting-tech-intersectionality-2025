@@ -22,5 +22,11 @@ First we instantiate a "general" focus group of 100 people with random character
 
 The focus groups discuss the possible risks of facial recognition technology (the use has been manually changed in the prompt, re-executing the cell every time and saving manually the results). Then a moderator is tasked to summarize the most relevant risks, providing examples from ExploreGen to adopt a similar (and therefore comparable) format (but specifying not to copy the content).
 
+```evaluate_risks.py```
+TBD
+
+```calculate_accuracy.py```
+Once we have both the labelling of human AI experts and the labelling of the LLM (for the subset of risks that we evaluate with Prolific), we can evaluate different metrics to validate the output of the LLM. For each label (question related to a risk) we calculate accuracy, adjacent accuracy (meaning that a value is considered to be correct if it falls between +-1 of the ground truth), MSE and RMSE.
+
 
 

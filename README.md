@@ -56,7 +56,9 @@ This folder contains the score given by the LLM to each risk for each statement,
 
 Each file reports the results for a single use, and a separate file reports the results for the risks obtained from ExploreGen, all together.
 
+
 ```ResponsibleAI_2025-5-12_PROJECT_with_comments.zip```
+
 This zip folder contains the output of the tool https://social-dynamics.net/rai-guidelines/ . Additionally, we insert in the folder a file named "unclear_cards.txt" which contains a brief description and motivation for the three cards that we found the most difficult to understand.
 
 

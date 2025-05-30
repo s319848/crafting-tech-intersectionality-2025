@@ -39,6 +39,11 @@ Sheet #2 refines this analysis, manually labelling the questions with a trend th
 
 The final result can be observed in the third sheet, "Labeled by experts"
 
+```labelled_risks```
+This folder contains the score given by the LLM to each risk for each statement, divided by focus group.
+
+Each file reports the results for a single use, and a separate file reports the results for the risks obtained from ExploreGen, all together.
+
 ```ResponsibleAI_2025-5-12_PROJECT_with_comments.zip```
 This zip folder contains the output of the tool https://social-dynamics.net/rai-guidelines/ . Additionally, we insert in the folder a file named "unclear_cards.txt" which contains a brief description and motivation for the three cards that we found the most difficult to understand.
 

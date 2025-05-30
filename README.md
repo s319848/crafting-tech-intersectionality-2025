@@ -39,5 +39,8 @@ Sheet #2 refines this analysis, manually labelling the questions with a trend th
 
 The final result can be observed in the third sheet, "Labeled by experts"
 
+```ResponsibleAI_2025-5-12_PROJECT_with_comments.zip```
+This zip folder contains the output of the tool https://social-dynamics.net/rai-guidelines/ . Additionally, we insert in the folder a file named "unclear_cards.txt" which contains a brief description and motivation for the three cards that we found the most difficult to understand.
+
 
 

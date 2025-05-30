@@ -23,10 +23,21 @@ First we instantiate a "general" focus group of 100 people with random character
 The focus groups discuss the possible risks of facial recognition technology (the use has been manually changed in the prompt, re-executing the cell every time and saving manually the results). Then a moderator is tasked to summarize the most relevant risks, providing examples from ExploreGen to adopt a similar (and therefore comparable) format (but specifying not to copy the content).
 
 ```evaluate_risks.py```
-TBD
+This file has been used to obtain the scores for each risk related to each use. 
+The same questions are asked to an LLM (through a manually crafted prompt) and the results are obtained for the single use, then manually aggregated.
 
 ```calculate_accuracy.py```
 Once we have both the labelling of human AI experts and the labelling of the LLM (for the subset of risks that we evaluate with Prolific), we can evaluate different metrics to validate the output of the LLM. For each label (question related to a risk) we calculate accuracy, adjacent accuracy (meaning that a value is considered to be correct if it falls between +-1 of the ground truth), MSE and RMSE.
+
+```LLM_comparison.xlsx```
+This file contains the comparison between the score given to each question by human experts (or by us, in case of non-consensus between experts) and by the LLM. for the subset of risks used to validate the LLM. The score of the LLM is comprehensive of the reasoning behind the answer.
+
+```Prolific_answers_analysis.xlsx```
+This Excel file contains three sheets, all containing the answers to the questions submitted on Prolific. Sheet #1 contains a preliminar analysis of the answers, looking at which group of three answers to the same question had a majority (that becomes the "official" answer), which ones did not have a consensus but had a trend or strong trend towards a sentiment (positive or negative) and which one did not have a consensus at all.
+
+Sheet #2 refines this analysis, manually labelling the questions with a trend through an arbitrary decision, and identifying which questions had several "non-consensus" answers (PROBLEM). We then decided to keep all the questions, since none of the problems appear to be critical (no question had always non-consensus, for example).
+
+The final result can be observed in the third sheet, "Labeled by experts"
 
 
 

@@ -57,7 +57,7 @@ This folder contains the score given by the LLM to each risk for each statement,
 Each file reports the results for a single use, and a separate file reports the results for the risks obtained from ExploreGen, all together.
 
 
-```Labelling graphs```
+```labelling_graphs```
 
 This folder contains the two files used to create the graphs for the labelling of each risk.
 

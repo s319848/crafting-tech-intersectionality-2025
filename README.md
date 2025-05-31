@@ -57,6 +57,13 @@ This folder contains the score given by the LLM to each risk for each statement,
 Each file reports the results for a single use, and a separate file reports the results for the risks obtained from ExploreGen, all together.
 
 
+```Labelling graphs```
+
+This folder contains the two files used to create the graphs for the labelling of each risk.
+
+Each file contains different sheets, one per use plus one for ExploreGen. For every risk it contains the average score for every identity axes and the total average score (for each axes) of all risks.
+
+
 ```ResponsibleAI_2025-5-12_PROJECT_with_comments.zip```
 
 This zip folder contains the output of the tool https://social-dynamics.net/rai-guidelines/ . Additionally, we insert in the folder a file named "unclear_cards.txt" which contains a brief description and motivation for the three cards that we found the most difficult to understand.

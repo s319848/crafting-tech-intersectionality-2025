@@ -68,5 +68,7 @@ Each file contains different sheets, one per use plus one for ExploreGen. For ev
 
 This zip folder contains the output of the tool https://social-dynamics.net/rai-guidelines/ . Additionally, we insert in the folder a file named "unclear_cards.txt" which contains a brief description and motivation for the three cards that we found the most difficult to understand.
 
+```Feasibility_Study_AI_Intersectionality.pdf```
 
+This file contains the feasibility study for our solution.
 
